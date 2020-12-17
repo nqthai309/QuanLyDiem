@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe.config
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe.config
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\bin\Debug\EntityFramework.dll
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\bin\Debug\EntityFramework.SqlServer.dll
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\bin\Debug\EntityFramework.xml
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\bin\Debug\EntityFramework.SqlServer.xml
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojAssemblyReference.cache
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Form1.resources
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CopyComplete
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+G:\ProjectVisualStudio\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.LoginForm.resources
